@@ -54,7 +54,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 [Awesome Books] <a name="about-project"></a>
 
 
-Awesome-books project is a basic website that allows users to add/remove books from a list. It showcases the use of JavaScript objects and arrays to dynamically modify the DOM and add basic events..
+Awesome-books project is a basic website that allows users to add/remove books from a list. It showcases the use of ES6 JavaScript objects and arrays to dynamically modify the DOM and add basic events..
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -92,7 +92,7 @@ Awesome-books project is a basic website that allows users to add/remove books f
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://uchexm.github.io/Awesome-Books/)
+- [Live Demo Link](https://rugwizangoga.github.io/Awesome-books-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
